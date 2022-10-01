@@ -14,7 +14,7 @@
 
 #Q3. Please fix, optimize, and/or modify the component as much as you think is necessary.
 
-#ans:- 
+
 
 
 
